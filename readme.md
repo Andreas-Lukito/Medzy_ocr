@@ -5,4 +5,4 @@ This project aims to develop a machine learning model capable of interpreting do
 ## About the model
 This model is a fine tuned Hugging Face's [TrOCR model](https://huggingface.co/docs/transformers/en/model_doc/btrocr) for converting the handwriting into text, then passed into a [BART model](https://huggingface.co/docs/transformers/en/model_doc/bart) with fuzzy matching to correct the OCR output.
 
-![Model Schema](https://github.com/Andreas-Lukito/Medzy_ocr/blob/rayhan/TrOCR/images/image.jpg?raw=true)
+![Model Schema](https://github.com/Andreas-Lukito/Medzy_ocr/blob/rayhan/TrOCR/images/image.png?raw=true)
